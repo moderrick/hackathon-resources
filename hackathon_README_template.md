@@ -1,4 +1,4 @@
-# Project Title
+# MCIT Sprint 2021 Hackathon
 
 ## Overview
 
@@ -10,9 +10,9 @@ Include the link to your Devpost project page here: [Devpost](https://...)
 
 ### Authors
 
-* **Name** - Devpost ID – Penn email – [GitHub](https://github.com/user_name)
-* **Name** - Devpost ID – Penn email – [GitHub](https://github.com/user_name)
-* **Name** - Devpost ID – Penn email – [GitHub](https://github.com/user_name)
+* Yun-Yang Li - Devpost ID – liyy@seas.upenn.edu – [GitHub](https://github.com/Clarklee2009)
+* Di Hu - Devpost ID – diihuu@seas.upenn.edu – [GitHub](https://github.com/diihuu)
+* Tzu-Hao Mo - moderrick – moderr@seas.upenn.edu – [GitHub](https://github.com/moderrick)
 
 ## Usage
 
